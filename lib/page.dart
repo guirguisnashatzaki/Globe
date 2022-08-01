@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:untitled1/skillspage.dart';
-import 'package:untitled1/studentmodel.dart';
+import 'package:Expert/skillspage.dart';
+import 'package:Expert/studentmodel.dart';
 import 'package:hive/hive.dart';
 
 const String boxname="StudentBox";

@@ -3,9 +3,9 @@ import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:untitled1/main.dart';
-import 'package:untitled1/page.dart';
-import 'package:untitled1/studentmodel.dart';
+import 'package:Expert/main.dart';
+import 'package:Expert/page.dart';
+import 'package:Expert/studentmodel.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:http/http.dart' as http;
 
